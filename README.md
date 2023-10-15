@@ -1,4 +1,4 @@
-# Machine Learning Project Name
+# Machine Learning Personal Projects
 
 This is my repo for share my personal projects.
 
